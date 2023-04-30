@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narsimha1202" alt="narsimha1202" /></a> </p>
 
-- 🔭 I’m currently working on **improving my skills and building a community for everyone.**
-
 - 🌱 I’m currently learning **DSA and Blockchain.**
+
+- 🔭 I’m currently working on **improving my skills and building a community for everyone.**
 
 - 💬 Ask me about **Frontend frameworks and Open Source Development.**
 
