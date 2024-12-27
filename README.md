@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 ** Computer Science Graduate
+- 🎓 **Computer Science Graduate
 - 💻 **Core Skills:** Python, SQL, Machine Learning, Data Modeling, Data Visualization, Java, HTML, CSS.
 - 📊 **Currently Exploring:** Advanced Machine Learning Techniques, Data Engineering, and AI.
 - 📚 **Projects:**
