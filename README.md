@@ -28,9 +28,9 @@
 
 ---
 
-### 🤝 **Connect with Me**
+### 🤝 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/narsimha-reddy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/narsimha-reddy-1202v8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/narsimharedd12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://medium.com/@gundarapunarsimhareddy" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://instagram.com/_narsimha.reddy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -53,4 +53,4 @@
 
 ---
 
-✨ _Let’s collaborate on data-driven projects and grow together!_ 🚀
+✨ _Excited to connect and collaborate!_ 🚀
