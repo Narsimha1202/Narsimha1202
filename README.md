@@ -44,13 +44,7 @@
 ---
 
 ### 📈 **My Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narsimha1202&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narsimha1202&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsimha1202&layout=compact&theme=radical" alt="Top Languages">
-   ![Profile Views](https://komarev.com/ghpvc/?username=narsimha1202&style=flat-square&color=blue)
-
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=narsimha1202&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=narsimha1202&theme=radical" alt="GitHub Streak"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsimha1202&layout=compact&theme=radical" alt="Top Languages"> <img src="https://komarev.com/ghpvc/?username=narsimha1202&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"> </p>
 
 ---
 
