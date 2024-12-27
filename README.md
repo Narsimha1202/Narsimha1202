@@ -12,7 +12,7 @@
 - 📚 **Projects:**
    - [Flipkart Laptop Price Prediction](https://narsimha1202-laptop-price-prediction-main-ooaqtv.streamlit.app)
    - [Exploratory Data Analysis on AMEO Data](https://github.com/Narsimha1202/Exploratory-Data-Analysis-on-AMEO-data)
-   - [Expense Manager App]((https://www.expense-tracker-app-lake.vercel.app)
+   - [Expense Manager App](https://www.expense-tracker-app-lake.vercel.app)
 - 🧠 **Certifications:** CS50 by Harvard, 30 Days of Code Gold Badge, Java Programming (4-star on HackerRank).
 - 🏆 **Hackathon:** Code for India Hackathon Winner, Rajasthan IT Day’23 Recognizant Hackathon
 - 📫 **Reach me at:** gundarapunarsimhareddy@gmail.com
