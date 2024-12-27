@@ -38,45 +38,27 @@
 
 ---
 
-### 🛠️ **Languages & Tools**
-<p align="center">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /> **Python**  
-  <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" /> **NumPy**  
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" /> **Pandas**  
-  <!-- Matplotlib -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" /> **Matplotlib**  
-  <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" /> **Seaborn**  
-  <!-- EDA -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/40/000000/external-eda-data-science-flat-flat-juicy-fish.png" width="40" height="40" /> **EDA**  
-  <!-- Scikit-learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" /> **Scikit-learn**  
-  <!-- TensorFlow -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40" /> **TensorFlow**  
-  <!-- Keras -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40" /> **Keras**  
-  <!-- Streamlit -->
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" /> **Streamlit**  
-  <!-- SQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> **SQL**  
-  <!-- MS Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="40" height="40" /> **MS Excel**  
-  <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" /> **Power BI**  
-  <!-- Tableau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" width="40" height="40" /> **Tableau**  
-  <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /> **Java**  
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> **HTML**  
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> **CSS**  
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" /> **Git**  
-</p>
+<!-- 🛠 Tech Stacks -->
+## 🛠️ **Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn&logoColor=008080)
+![EDA](https://img.shields.io/badge/-EDA-000?&logo=EDA&logoColor=blue)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-000?&logo=scikit-learn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras&logoColor=D00000)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit&logoColor=FF4B4B)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
+![MS Excel](https://img.shields.io/badge/-MS%20Excel-000?&logo=Microsoft-Excel&logoColor=217346)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=E97627)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 
 
 ---
