@@ -1,21 +1,22 @@
 ### Hi there! 👋 I'm **Gundarapu Narsimha Reddy**
 
-🚀 **Aspiring Data Scientist | Former Web Developer | Tech Enthusiast**
+🚀 **Aspiring Data Scientist | Tech Enthusiast**
 
 I’m on an exciting journey transitioning from Web Development to Data Science, leveraging my skills in Python, SQL, and Machine Learning to extract insights from data and solve real-world problems.
 
 ---
 
 ### 🌟 **About Me**
-- 🎓 **B.Tech in Computer Science and Engineering** (2020-2024) from Siddhartha Institute of Technology and Sciences.
-- 💻 **Core Skills:** Python, SQL, Machine Learning, Data Visualization, Java, HTML, CSS.
+- 🎓 ** Computer Science Graduate
+- 💻 **Core Skills:** Python, SQL, Machine Learning, Data Modeling, Data Visualization, Java, HTML, CSS.
 - 📊 **Currently Exploring:** Advanced Machine Learning Techniques, Data Engineering, and AI.
 - 📚 **Projects:**
-   - [Flipkart Laptop Price Prediction](https://github.com/yourprojectlink)
-   - [Exploratory Data Analysis on AMEO Data](https://github.com/yourprojectlink)
-   - [Expense Manager App](https://github.com/yourprojectlink)
+   - [Flipkart Laptop Price Prediction](https://narsimha1202-laptop-price-prediction-main-ooaqtv.streamlit.app)
+   - [Exploratory Data Analysis on AMEO Data](https://github.com/Narsimha1202/Exploratory-Data-Analysis-on-AMEO-data)
+   - [Expense Manager App](expense-tracker-app-lake.vercel.app)
 - 🧠 **Certifications:** CS50 by Harvard, 30 Days of Code Gold Badge, Java Programming (4-star on HackerRank).
-- 🏆 **Hackathon:** Participant at Rajasthan IT Day’23 Recognizant Hackathon.
+- 🏆 **Hackathon:** Code for India Hackathon Winner,
+                  ** Rajasthan IT Day’23 Recognizant Hackathon
 - 📫 **Reach me at:** gundarapunarsimhareddy@gmail.com
 
 ---
