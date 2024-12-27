@@ -2,7 +2,6 @@
 
 🚀 **Aspiring Data Scientist | Tech Enthusiast**
 
-I’m on an exciting journey transitioning from Web Development to Data Science, leveraging my skills in Python, SQL, and Machine Learning to extract insights from data and solve real-world problems.
 
 ---
 
