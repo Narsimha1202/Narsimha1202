@@ -15,8 +15,7 @@ I’m on an exciting journey transitioning from Web Development to Data Science,
    - [Exploratory Data Analysis on AMEO Data](https://github.com/Narsimha1202/Exploratory-Data-Analysis-on-AMEO-data)
    - [Expense Manager App](expense-tracker-app-lake.vercel.app)
 - 🧠 **Certifications:** CS50 by Harvard, 30 Days of Code Gold Badge, Java Programming (4-star on HackerRank).
-- 🏆 **Hackathon:** Code for India Hackathon Winner,
-                  ** Rajasthan IT Day’23 Recognizant Hackathon
+- 🏆 **Hackathon:** Code for India Hackathon Winner, Rajasthan IT Day’23 Recognizant Hackathon
 - 📫 **Reach me at:** gundarapunarsimhareddy@gmail.com
 
 ---
