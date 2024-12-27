@@ -19,25 +19,6 @@
 
 ---
 
-### 📈 **My Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narsimha1202&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narsimha1202&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsimha1202&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-### 🤝 **Let's Connect**
-<p align="center">
-  <a href="www.linkedin.com/in/narsimha-reddy-1202v8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/narsimharedd12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://medium.com/@gundarapunarsimhareddy" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://instagram.com/_narsimha.reddy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
 <!-- 🛠 Tech Stacks -->
 ## 🛠️ **Tech Stack**
 
@@ -62,5 +43,25 @@
 
 
 ---
+### 📈 **My Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narsimha1202&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narsimha1202&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsimha1202&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+### 🤝 **Let's Connect**
+<p align="center">
+  <a href="www.linkedin.com/in/narsimha-reddy-1202v8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/narsimharedd12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@gundarapunarsimhareddy" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://instagram.com/_narsimha.reddy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+
 
 ✨ _Excited to connect and collaborate!_ 🚀
